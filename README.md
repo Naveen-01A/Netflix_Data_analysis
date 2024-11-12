@@ -8,5 +8,5 @@ Netflix was launched on January 16, 2007, nearly a decade after Netflix, Inc. be
 1) Volume of Stock Trade
 2) Netflix Stock Price - High , Open, Close
 3) Netflix Stock Price - Day, Month, Year Wise
-4) Top-5 Dates with Highest Stock Price
-5) Top-5 Dates with Lowest Stock Price
+4) Top-10 Dates with Highest Stock Price
+5) Top-10 Dates with Lowest Stock Price
